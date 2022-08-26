@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teppa-test-f0624",
+  "private_key_id": "d1f019f5fc368867c067b8874e471cea82374587",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7mU1kimYcV6G4\nmeCZC/lEdIn1jRL1KX27OpV1VuFc0UKkpJCN0hT3umA+KfiXxgtHy2uBQm3y+nRN\nSRu1uNnyJlKCkCIfiVotfUkl/UeTNpLFd/IOYsH4mWVppDf1ctUGNCOQaK1gLNCd\nxFCTLFB8voXr2xxibSDw6aOI2j99fmY59M29jP3iR2VJ/fvxMXpR00OSiWJlZt+K\nfcYYHHCHXVR2L5W7a73ZIdLwwrpElXJ36rd7FKMnQGRkiW2LZirAKWJbBK+hCtYg\nVKM+WMf4pr4kgvVgVvj4Lhx88s12+XeaMKh4t+XHxVN5qnov6Ys4Too3OPKhqzt9\nTJ1z7sPfAgMBAAECggEABtEn0E79Let7S3eAA1+9g6DOgJdLSJBk6sBSvQxWrSZH\niy8Vt6maLHRf2fJxf6ZpM4cvVWeiEjHKtyJAeQaKGPQOjIMLUmUN21hRp6lACBf0\nFmvo5l/tV4jPeBrJE8jD9/E+F5nOLxAB1rHTEb4LALV1rV/tdKAtkcOTtz3jD77P\nrxCLnHm+Ty7IkQdObCvhFtBLHqjxB1uIE+mVFhlW2tX5IzYX3C7t/9oaVSrgeuSG\nxxLm+fW7DCbOpHDcggpOUtxRt5/YElSDizUl2nimcxPulDuJYPipT0HKkwyEizic\nJMZYCD/UEkhTdZmsH3TQ09D7UXZirWzJAisBCLzS0QKBgQDfellAAdYF4aOPBhcD\n+xSoKQzZCKtzhcairsXW0SJ0CcPU7PbJpfemHvZC4zxOSXKadBV62e6QDUwnWJOJ\nbk4GO/XoA8/eg0/Jnjkw1y9iiVCJsAj0zu5ZRcQzy8o2s8ZSThrSqQv9Cd4WBQAS\nZ+mNQ4B2+fQ7Ru3m76+pZMYqEQKBgQDW5kgCyxooAc/9oPP7FMUhapMl6GcF5i05\niC1tWYcGakTZOJNas0d2Znlek3ERcOV/26oEsWl5LklKFKrPpXjZab3sZjIAO+16\nSnUy6glsxhkhduH97vqgPkEUMOgishdtK5G+h0nWxzZwJc2/UoOkqtCj/NtbFxNH\nqKWVwoee7wKBgCy2FdUwiNl0Y3ziAwjQ2zkpvWBO076xLSSvQvXPscz1hzC6mEWP\n5xRdbXfEbvRazYsJXqLNp2U6w9m7ZwlAAGxO4swgtx4Vt4jnFxomc1yLjIl/pssT\n+6vwwWh7hWGcZjlhVwx+td9SchSFu5XzJE8XCkTDjZGuhzqFCegiOWOBAoGAAvle\n58L90q3rvfvbRI9OBx9dd/nWayt7Vr9+uXOyvbD80PDKgUfX5liWt2tc9jvUwUc9\n/CCkcAvm8cKFdqg4mvGusjXb3Ur3B2k+Y/z/MmUvddoaWJRVHaCe7/OZUtmaH2Wp\n97QRnopVQ4oSZeJzdfTzPEHEm2cfWi+IUyFFFTsCgYEAkJLQYpxdpDsrI6ppg3rp\naazj/Xcku/ya6PDNCyBGbf39XS/mgWj4/t5m3Kr0BbfcRDkSuQLDSK/5fPG8PsF4\nLR2KAJZQY7XWJ8WPXv5oEwx0Z0+Ew8BaPKmhKJL78Af6YMQ8cI4GEEkO5/eCy3Jy\nDHMt4kl6q8bL8hfjDPydtvY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-m21do@teppa-test-f0624.iam.gserviceaccount.com",
+  "client_id": "117805200451695808314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m21do%40teppa-test-f0624.iam.gserviceaccount.com"
+}
