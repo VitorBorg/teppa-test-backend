@@ -1,4 +1,5 @@
-const database = require("../infra/database");
+const admin = require("../infra/database");
+const database = admin.firestore();
 
 exports.getAll = async () => {
   const posts = database.collection("Note");
