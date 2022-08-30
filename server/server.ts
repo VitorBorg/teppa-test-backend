@@ -13,4 +13,4 @@ app.use("/nota", require("./route/notaRoute.ts"));
 
 console.log("Server started!");
 
-app.listen(8098);
+app.listen(process.env.PORT || 8098);
