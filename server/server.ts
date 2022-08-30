@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-//app.use(middleware.decodeToken);
+app.use(middleware.decodeToken);
 
 app.use("/nota", require("./route/notaRoute.ts"));
 
