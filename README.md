@@ -22,7 +22,7 @@ https://teppa-test-backend.herokuapp.com/save/`id` - Altera a nota (passadas pel
 
 
 ## Rodando o projeto
-Para rodar o projeto utilize `npm run dev ou npm run start`
+Para rodar o projeto utilize `npm run exec ou npm run start`
 
 ## 🛠️ Construído com
 
