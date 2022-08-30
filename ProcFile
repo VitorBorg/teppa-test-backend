@@ -1,1 +1,1 @@
-wev: npm run exec:prod
+wev: npm run start:prod
