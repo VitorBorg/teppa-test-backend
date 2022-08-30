@@ -1,0 +1,11 @@
+"use strict";
+var express = require("express");
+var cors = require("cors");
+var middleware = require("./middleware/middleware");
+var app = express();
+app.use(express.json());
+app.use(cors());
+app.use(middleware.decodeToken);
+app.use("/nota", require("./route/notaRoute.ts"));
+console.log("Server started!");
+app.listen(8098);
