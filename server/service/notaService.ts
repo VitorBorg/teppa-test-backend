@@ -7,7 +7,7 @@ exports.getAll = async () => {
 
   const data: any[] = [];
 
-  snapshot.forEach((doc) => {
+  snapshot.forEach((doc: any) => {
     data.push({ id: doc.id, ...doc.data() });
   });
 
@@ -27,7 +27,7 @@ exports.delete = async (id: String) => {
 };
 
 exports.save = async (data: object) => {
-  const { idProduto, qntProduto, cnpjCompra } = data;
+  const { idProduto, qntProduto, cnpjCompra }: any = data;
 
   //verifications
 
@@ -60,7 +60,7 @@ exports.save = async (data: object) => {
   return { status: "success" };
 };
 
-exports.update = async (id: String, data: object) => {
+exports.update = async (id: String, data: any) => {
   const { idProduto, qntProduto, cnpjCompra } = data;
 
   //verifications

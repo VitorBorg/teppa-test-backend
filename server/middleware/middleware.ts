@@ -1,7 +1,7 @@
-const admin = require("../infra/database");
+const admin: any = require("../infra/database");
 
 class Middleware {
-  async decodeToken(req, res, next) {
+  async decodeToken(req: any, res: any, next: any) {
     const authorization = req.headers;
     const token = authorization?.authorization.split(" ")[1];
     try {
@@ -11,7 +11,7 @@ class Middleware {
         return next();
       }
       return res.json({ message: "Unauthorized" });
-    } catch (e) {
+    } catch (e: any) {
       console.log(e.code);
 
       if (e.code === "auth/id-token-expired")
