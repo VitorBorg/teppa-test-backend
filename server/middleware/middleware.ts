@@ -21,4 +21,5 @@ class Middleware {
   }
 }
 
+export {};
 module.exports = new Middleware();

@@ -91,3 +91,5 @@ exports.update = async (id: String, data: any) => {
 
   return { status: "success" };
 };
+
+export {};
