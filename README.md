@@ -3,7 +3,7 @@
 Projeto que tinha como requisito obrigatório a implementação de uma api back-end e que realizasse as operações de CRUD, além de autenticar os tokens das requisições vindas no header.
 
 ## Observações
-O deploy da aplicação foi feito na Heroku, porém nos testes houve problema de comunicação, que eu não consegui identificar o problema. Apesar de, em local, os testes tenham funcionado. Ainda assim, na versão atual do front-end, as requisições estão sendo feitas para a aplicação rodando na heroku (link abaixo).
+O deploy da aplicação foi feito na Heroku, porém nos testes houve problema de comunicação, que eu não consegui identificar (e corrigir). Apesar de, em local, os testes tenham funcionado.
 
 Link do deploy do front end:
 https://teppa-test-backend.herokuapp.com
